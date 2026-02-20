@@ -1,6 +1,6 @@
 <img align="right" src="avatar.png" width="150" />
 
-### Hey 👋 我是 DoLolo
+# Hey 👋 我是 DoLolo
 
 An AI full-stack developer who believes AI will redefine the way we code.
 
@@ -16,7 +16,7 @@ An AI full-stack developer who believes AI will redefine the way we code.
 
 ---
 
-#### 技术栈
+## 技术栈
 
 ```text
 Frontend    React / Vue / Vite / Tailwind CSS
@@ -27,7 +27,7 @@ Database    MySQL / PostgreSQL / Supabase
 DevOps      Git / Docker / PM2 / Linux
 ```
 
-#### 我和 AI 的日常
+## 我和 AI 的日常
 
 ```
 📝 写代码    → Claude Code / Codex 结对编程，效率翻倍
@@ -48,7 +48,7 @@ DevOps      Git / Docker / PM2 / Linux
 
 ---
 
-#### Contact Me
+## Contact Me
 
 [![Email](https://img.shields.io/badge/Email-MaYuandong4042@163.com-blue?style=flat-square&logo=gmail)](mailto:MaYuandong4042@163.com)
 [![WeChat](https://img.shields.io/badge/微信-MYD18793294042-07C160?style=flat-square&logo=wechat)](/)
