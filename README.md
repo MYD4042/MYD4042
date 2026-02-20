@@ -2,9 +2,7 @@
 
 # Hey 👋 我是 DoLolo
 
-An AI full-stack developer who believes AI will redefine the way we code.
-
----
+An **AI full-stack developer** who believes AI will redefine the way we code.
 
 - 🛠️ **Toolbox**：Claude Code / Codex / Coze / n8n ，能用 AI 解决的绝不自己硬写
 
