@@ -1,6 +1,6 @@
 <img align="right" src="avatar.png" width="150" />
 
-# Hey 👋 我是 DoLolo
+<h1>Hey 👋 我是 DoLolo</h1>
 
 An **AI full-stack developer** who believes AI will redefine the way we code.
 
