@@ -6,11 +6,13 @@ An AI full-stack developer who believes AI will redefine the way we code.
 
 ---
 
-🛠️ Toolbox：Claude Code / Codex / Coze / n8n ，能用 AI 解决的绝不自己硬写
+- 🛠️ **Toolbox**：Claude Code / Codex / Coze / n8n ，能用 AI 解决的绝不自己硬写
 
-💡 Interests：AI Agent、AGUI、LLM 应用开发、全栈工程
+- 💡 **Interests**：AI Agent、AGUI、LLM 应用开发、全栈工程
 
-🤖 AI Philosophy：不只是调 API，而是让 AI 成为开发流程的一部分 —— 从需求分析、架构设计到编码调试，全程 AI 协作
+- 🌱 **Learning**：AI Agent 架构设计、多模态交互
+
+- 🤖 **AI Philosophy**：不只是调 API，而是让 AI 成为开发流程的一部分 —— 从需求分析、架构设计到编码调试，全程 AI 协作
 
 ---
 
